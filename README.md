@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Flavien DESEURE--CHARONN</h1>
+<h1 align="center">Hi 👋, I'm Flavien DESEURE--CHARRON</h1>
 <h3 align="center">A passionate engineering student in data science from France</h3>
 
 - 📫 How to reach me **flavien.deseure@gmail.com**

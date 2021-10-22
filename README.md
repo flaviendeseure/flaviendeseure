@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Flavien DESEURE--CHARRON</h1>
 
 ## 😄 About me
-- 🌱 I'm currently studying data science at ESILV (Leonard de Vinci Engineering School)     
+- 🌱 I'm currently studying Data Science at ESILV (Leonard de Vinci Engineering School)     
 - 🔭 I’m currently working on my research project at De Vinci Research Center (eq. Master's Thesis)   
 🧠 *Statistical analysis for tourist photo spot recommendation*
 - 🤔 I'm looking for an internship for next April, feel free to contact me, i'll be glad to talk with you !

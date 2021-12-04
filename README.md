@@ -20,6 +20,12 @@
      <a href="https://github.com/leonard-de-vinci/DaVinciBot-InMoov-2020-2021">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=leonard-de-vinci&repo=DaVinciBot-InMoov-2020-2021" alt="GitHub Stats" />
     </a>
+    <a href="https://github.com/flaviendeseure/Function_approximation_using_genetic_algorithms">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=leonard-de-vinci&repo=Function_approximation_using_genetic_algorithms" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/flaviendeseure/Python_4_Data_Analysis">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviendeseure&repo=Python_4_Data_Analysis" alt="GitHub Stats" />
+    </a>
   </p>
 </div>
 

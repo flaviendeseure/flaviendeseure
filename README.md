@@ -6,7 +6,7 @@
 🧠 *Statistical analysis for tourist photo spot recommendation*
 - 🤔 I'm looking for an internship for next April, feel free to contact me, i'll be glad to talk with you !
 
-- 💬 Talk to me about Data Science, Python, 
+- 💬 Talk to me about Data Science, Python
 
 <h2>📌My GitHub repositories</h2>
 <div>

@@ -17,8 +17,8 @@
     <a href="https://github.com/flaviendeseure/Tic-tac-toe_minimax_Agent">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviendeseure&repo=Tic-tac-toe_minimax_Agent" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/flaviendeseure/Function_approximation_using_genetic_algorithms">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviendeseure&repo=Function_approximation_using_genetic_algorithms" alt="GitHub Stats" />
+    <a href="https://github.com/flaviendeseure/Quantified_drug_consumption">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviendeseure&repo=Quantified_drug_consumption" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/flaviendeseure/Python_4_Data_Analysis">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviendeseure&repo=Python_4_Data_Analysis" alt="GitHub Stats" />

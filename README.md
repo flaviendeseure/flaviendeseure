@@ -2,10 +2,8 @@
 
 ## 😄 About me
 - 🌱 I'm currently studying Data Science at ESILV (Leonard de Vinci Engineering School)     
-- 🔭 I’m currently working on my research project at De Vinci Research Center (eq. Master's Thesis)   
-🧠 *Statistical analysis for tourist photo spot recommendation*
-- 🤔 I'm looking for an internship for next April, feel free to contact me, i'll be glad to talk with you !
-
+- 🔭 I’m currently doing an internship at Lincoln on interpretable/explainable AI
+- 🤔 Feel free to contact me, i'll be glad to talk with you !
 - 💬 Talk to me about Data Science, Python
 
 <h2>📌My GitHub repositories</h2>

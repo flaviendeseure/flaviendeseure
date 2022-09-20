@@ -25,7 +25,7 @@
 
 <h2>📈 My GitHub Stats</h2>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=flaviendeseure&show_icons=true&include_all_commits=true)](https://github.com/rajk3770/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=flaviendeseure&show_icons=true&include_all_commits=true)
 
 <h2>📫 How to reach me</h2>
 

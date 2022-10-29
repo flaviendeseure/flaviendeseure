@@ -5,20 +5,17 @@
 - 🤔 Feel free to contact me, i'll be glad to talk with you !
 - 💬 Talk to me about Data Science, Python
 
-<h2>📌My GitHub repositories</h2>
+<h2>📌My current GitHub repositories</h2>
 <div>
   <p>
-    <a href="https://github.com/flaviendeseure/Machine_learning_projects">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviendeseure&repo=Machine_learning_projects" alt="GitHub Stats" />
+    <a href="https://github.com/flaviendeseure/Airbnb_berlin_price_prediction">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviendeseure&repo=Airbnb_berlin_price_prediction" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/flaviendeseure/Function_approximation_using_genetic_algorithms">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviendeseure&repo=Function_approximation_using_genetic_algorithms" alt="GitHub Stats" />
+    <a href="https://github.com/flaviendeseure/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviendeseure&repo=Clustering-Method-for-Touristic-Photographic-Spots-Recommendation" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/flaviendeseure/Quantified_drug_consumption">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviendeseure&repo=Quantified_drug_consumption" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/flaviendeseure/Airbnb_berlin_price_prediction">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviendeseure&repo=Airbnb_berlin_price_prediction" alt="GitHub Stats" />
     </a>
   </p>
 </div>

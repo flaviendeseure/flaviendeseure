@@ -8,14 +8,17 @@
 <h2>📌My current GitHub repositories</h2>
 <div>
   <p>
-    <a href="https://github.com/YoanGab/intents_classification_for_neural_text_generation/tree/master">
+    <a href="https://github.com/YoanGab/intents_classification_for_neural_text_generation">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=YoanGab&repo=intents_classification_for_neural_text_generation" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/flaviendeseure/automated-planning-a-star-pddl">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviendeseure&repo=automated-planning-a-star-pddl" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/flaviendeseure/connect4_rl_agent/">
+    <a href="https://github.com/flaviendeseure/connect4_rl_agent">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviendeseure&repo=connect4_rl_agent" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/noblotni/satellite_transmission">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=noblotni&repo=satellite_transmission" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/flaviendeseure/Airbnb_berlin_price_prediction">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=flaviendeseure&repo=Airbnb_berlin_price_prediction" alt="GitHub Stats" />
